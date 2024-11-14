@@ -1,2 +1,2 @@
 # Data-Mining-and-Visualisation
-Using various machine learning algorithms of various datasets
+Perfroming Data Analysis using various machine learning algorithms on various datasets
